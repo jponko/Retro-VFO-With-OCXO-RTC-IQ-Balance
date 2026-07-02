@@ -11,7 +11,7 @@ ESP32 Digital VFO, Rotation Dial covering 100kHz to 30MHz, Oven Controled Xtal O
   - Library: LovyanGFX ver. 1.2.24
   - Kicad 10.x PCB Layout & Gerbers
   - KY040 Rotary Encoder
-  - ST7789 IPS 1,9" display 170x320 and 0.91 inch OLED for clock
+  - ST7789 IPS 1.9" display 170x320 and 0.91 inch OLED for clock
   - CTI OSC5A2B02 10 MHz Oven Controled Xtal Oscillator (OCXO)
   - Si5351A Clock generator IC (TSSOP-8)
   - 74LVC1G04DBVR single inverter gate (SOT23-5 package)
