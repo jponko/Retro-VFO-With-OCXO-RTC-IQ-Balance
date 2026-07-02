@@ -1,4 +1,4 @@
-# Retro-VFO-With-OCXO-RTC-IQ-Balance
+# Retro-VFO-With-OCXO-RTC-IQ-Balance - 100kHz to 30MHz
 ESP32 Digital VFO, Rotation Dial covering 100kHz to 30MHz, Oven Controled Xtal Oscilator (OCXO) and Real Time Clock (RTC)
 
 While some of the parts used are specialized, none are expensive.
