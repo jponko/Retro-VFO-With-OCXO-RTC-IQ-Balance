@@ -5,10 +5,15 @@ ESP32 Digital VFO, Rotation Dial covering 100kHz to 30MHz, Oven Controled Xtal O
 ## While some of the parts used are specialized, none are expensive.
 
   AC9NM Updated as of June 2026:
+  
   Board manager: esp32 ver. 3.3.10
+  
   Arduino IDE 2.3.10
+  
   Board: DOIT ESP32 Devkit V1 Module (30-pin) or NodeMCU-32S (30-pin)
+  
   Library: LovyanGFX ver. 1.2.24
+  
   Kicad 10.x PCB Layout & Gerbers
   KY040 Rotary Encoder
   ST7789 IPS 1,9" display 170x320 and 0.91 inch OLED for clock
